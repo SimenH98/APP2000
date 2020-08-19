@@ -1,5 +1,12 @@
 /* stilark */
 
-.hovedinnhold li{
-  list-style-type: none; 
+body {
+  margin: 5px;
+}
+.hovedinnhold ul{
+  list-style-type: none;
+  border: solid;
+  width: 20%;
+  padding: 5px;
+  border-radius: 5px;
 }
